@@ -2,4 +2,7 @@
 * linguist-vendored
 *.cshtml linguist-vendored=false
 *.html linguist-vendored=false
-*.javascript linguist-detectable=true
+
+*.cs linguist-detectable=true
+
+*.html linguist-language=javascript
